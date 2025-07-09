@@ -9,4 +9,4 @@
 # passando um valor
 x = 10 
 
-![imagem de cavalo] (https://images.app.goo.gl/UAmRmWin23eRz8MD6)
+![imagem de cavalo](https://images.app.goo.gl/UAmRmWin23eRz8MD6)
